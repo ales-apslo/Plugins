@@ -6,26 +6,41 @@
     "lengthMenu": "Prikaži _MENU_ zapisov",
     "loadingRecords": "Nalagam...",
     "search": "Išči:",
-    "zeroRecords": "Nobeden zapis ne ustreza",
+    "zeroRecords": "Noben zapis ne ustreza",
     "aria": {
         "sortAscending": "razvrsti naraščajoče",
         "sortDescending": "razvrsti padajoče"
     },
     "select": {
         "columns": {
+            "0": "0 izbranih stolpcev",
             "1": "1 izbran stolpec",
-            "_": "%d izbrani stolpci"
+            "2": "2 izbrana stolpca",
+            "3": "3 izbrani stolpci",
+            "4": "4 izbrani stolpci",
+            "_": "%d izbranih stolpcev"
         },
         "rows": {
-            "0": "2 izbrani vrstici",
+            "0": "0 izbranih vrstic",
             "1": "1 izbrana vrstica",
-            "_": "2 izbrani vrstici"
+            "2": "2 izbrani vrstici",
+            "3": "3 izbrane vrstice",
+            "4": "4 izbrane vrstice",
+            "_": "%d izbranih vrstic"
         },
-        "1": "%d izbrana vrstica",
-        "_": "%d izbrani vrstici",
+        "0": "0 izbranih vrstic",
+        "1": "1 izbrana vrstica",
+        "2": "2 izbrani vrstici",
+        "3": "3 izbrane vrstice",
+        "4": "4 izbrane vrstice",
+        "_": "%d izbranih vrstic"
         "cells": {
+            "0": "0 izbranih polj",
             "1": "1 izbrano polje",
-            "_": "%d izbrana polja"
+            "2": "2 izbrani polji",
+            "3": "3 izbrana polja",
+            "4": "4 izbrana polja",
+            "_": "%d izbranih polj"
         }
     },
     "thousands": ".",
@@ -114,7 +129,11 @@
     "searchPlaceholder": "Vnesi iskalni pojem",
     "buttons": {
         "copySuccess": {
+            "0": "0 vrstic prekopiranih na odložišče.",
             "1": "1 vrstica prekopirana na odložišče.",
+            "2": "2 vrstici prekopirani na odložišče.",
+            "3": "3 vrstice prekopirane na odložišče.",
+            "4": "4 vrstice prekopirane na odložišče.",
             "_": "%ds vrstic prekopiranih na odložišče."
         },
         "copyTitle": "Kopiraj na odložišče",
@@ -123,6 +142,9 @@
         "pageLength": {
             "-1": "Prikaži vse vrstice",
             "1": "Prikaži 1 vrstico",
+            "2": "Prikaži 2 vrstici",
+            "3": "Prikaži 3 vrstice",
+            "4": "Prikaži 4 vrstice",
             "_": "Prikaži %ds vrstic"
         },
         "pdf": "PDF",
